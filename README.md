@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/its_shivkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_shivkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiv kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shiv-kumar-7b72a6216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv-kumar-7b72a6216" height="30" width="40" /></a>
 <a href="https://fb.com/shivkumar.mm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shivkumar.mm" height="30" width="40" /></a>
 </p>
 
